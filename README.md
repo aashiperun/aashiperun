@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/66789469/151665369-8b7e2cdd-9e07-4b2c-9b6c-e18f364d7141.png)
 
 <!--
 **aashiperun/aashiperun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
