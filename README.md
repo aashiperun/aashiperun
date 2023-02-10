@@ -10,7 +10,7 @@
 
 📫 How to reach me: www.linkedin.com/in/aashika-perunkolam
 
-👯 I’m looking to collaborate on research in **cost-effective & autonomous** robotic solutions for the healthcare industry.
+👯 I’m looking to collaborate on health tech projects and startups!
 <!--
 **aashiperun/aashiperun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
