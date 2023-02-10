@@ -6,7 +6,7 @@
 
 🔭 Current Work: Developing Linux Device Drivers to validate new features for an Ethernet Controller.
 
-🌱 Currently Learning: Robot Operating System (ROS) framework, and Neural Networks.
+🌱 Currently Learning: Spark, Kafka, ReactJS, GoJS, Firebase
 
 📫 How to reach me: www.linkedin.com/in/aashika-perunkolam
 
