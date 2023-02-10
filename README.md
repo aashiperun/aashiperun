@@ -1,6 +1,6 @@
 ### Hi there, I'm Aashika Perunkolam
 
-#### I enjoy working on hardware-software interfaces that enable intelligent and autonomous systems.
+#### I enjoy working on hardware-software interfaces that enable impact driven products.
 ![image](https://user-images.githubusercontent.com/66789469/151665847-899ba484-d41b-475e-a64f-2ecb443269cf.png)
 
 
