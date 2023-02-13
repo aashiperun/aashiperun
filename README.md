@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/66789469/151665847-899ba484-d41b-475e-a64f-2ecb443269cf.png)
 
 
-🔭 Current Work: Developing Linux Device Drivers to validate new features for an Ethernet Controller.
+🔭 Current Work: Working on the challenge: "How might we help Software Engineers understand a codebase more efficiently"
 
 🌱 Currently Learning: Spark, Kafka, ReactJS, GoJS, Firebase
 
